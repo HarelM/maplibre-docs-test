@@ -10,3 +10,7 @@
 
 
 <iframe src="https://www.maplibre.org"></iframe>
+
+{% include test.html %}
+
+<iframe src="./test.html"></iframe>
